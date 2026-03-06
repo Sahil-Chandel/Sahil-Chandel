@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning genAI & LLM
 - 👯 I’m looking to collaborate on open source projects & freelence
 
-📑I am Machine learning Engineer, currently working in GarudaUAV Soft Solution.<br>❤️Machine learning, Deep learning, Computer vision.<br>
+📑I am Senior AI/ML Engineer, currently working in Solaroot Enginerring Services pvt ltd.<br>❤️ Machine learning,Gen Ai, Deep learning, Computer vision.<br>
 
 ![CodeCodingGIF](https://user-images.githubusercontent.com/19887833/179393192-754da27b-331e-4993-add1-c5c7639b21e1.gif)
 
